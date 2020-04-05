@@ -1,0 +1,2 @@
+//https://www.codingame.com/ide/puzzle/chuck-norris-codesize - code size: 160
+print(readline().split ``.map((a) => (128 | a.charCodeAt(0)).toString(2).slice(1)).join ``.replace(/(.)\1*/g, (m, p) => (p % 2 ? '0 ' : '00 ') + '0'.repeat(m.length) + ' ').trim())
