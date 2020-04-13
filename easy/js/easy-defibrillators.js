@@ -21,24 +21,23 @@ for (let i = 0; i < N; i++) {
 console.error(userLocation, defibrilattors)
     // Write an answer using console.log()
     // To debug: console.error('Debug messages...');
-function closestLocation(targetLocation, locationData) {
+const closestLocation = (targetLocation, locationData) => {
 
-    function vectorDistance(dx, dy) {
+    const vectorDistance = (dx, dy) => {
         return Math.sqrt(dx * dx + dy * dy);
     }
 
-    function toNumber(string) {
+    const toNumber = (string) => {
         return parseFloat(string.replace(',', '.'))
     }
 
-
-    function locationDistance(location1, location2) {
+    const locationDistance = (location1, location2) => {
         var dx = toNumber(location1.lon) - toNumber(location2.lon),
             dy = toNumber(location1.lat) - toNumber(location2.lat);
         return vectorDistance(dx, dy);
     }
 
-    return locationData.reduce(function(prev, curr) {
+    return locationData.reduce((prev, curr) => {
         var prevDistance = locationDistance(targetLocation, prev),
             currDistance = locationDistance(targetLocation, curr);
         return (prevDistance < currDistance) ? prev : curr;
