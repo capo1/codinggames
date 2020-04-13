@@ -1,5 +1,5 @@
 //MEDIUM - https://www.codingame.com/ide/puzzle/conway-sequence
-
+//BLOG POST: https://capo1.github.io/blog/look-and-say-sequence/
 /**
  * Auto-generated code below aims at helping you parse
  * the standard input according to the problem statement.
