@@ -10,7 +10,7 @@ Mój profil: https://www.codingame.com/profile/315f3bbca63abb32258e17da4efbfa2b4
 | Tytuł zadania                                                            | Rozwiązanie                                                                           | Temat                          |
 | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- | ------------------------------ |
 | [Defibrillators](https://www.codingame.com/training/easy/defibrillators) | [JS](https://github.com/capo1/codinggames/blob/master/easy/js/easy-defibrillators.js) | Loops, Distances, Trigonometry |
-| [The Descent](https://www.codingame.com/training/easy/the-descent)       | [PHP]()                                                                               | Sorting, Loops                 |
+| [The Descent](https://www.codingame.com/training/easy/the-descent)       | [PHP](https://github.com/capo1/codinggames/blob/master/easy/php/easy-the-descent.php) | Sorting, Loops                 |
 
 
 
