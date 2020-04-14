@@ -9,6 +9,6 @@ Mój profil: https://www.codingame.com/profile/315f3bbca63abb32258e17da4efbfa2b4
 ## Easy (Łatwe): 
 | Title          | Rozwiązanie                                                                           | Temat                          |
 | -------------- | ------------------------------------------------------------------------------------- | ------------------------------ |
-| DEFIBRILLATORS | [JS](https://github.com/capo1/codinggames/blob/master/easy/js/easy-defibrillators.js) | Loops, Distances, Trigonometry |
+| [DEFIBRILLATORS](https://www.codingame.com/training/easy/defibrillators) | [JS](https://github.com/capo1/codinggames/blob/master/easy/js/easy-defibrillators.js) | Loops, Distances, Trigonometry |
 
 
