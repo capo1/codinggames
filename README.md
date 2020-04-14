@@ -15,6 +15,8 @@ Mój profil: https://www.codingame.com/profile/315f3bbca63abb32258e17da4efbfa2b4
 | [Pirate's Treasure](https://www.codingame.com/training/easy/pirates-treasure)    | [Py](https://github.com/capo1/codinggames/blob/master/easy/py/easy-pirates-treasure.py)                                                                                           | Conditions, Loops, Arrays               |
 | [Horse-racing Duals](https://www.codingame.com/training/easy/horse-racing-duals) | [JS](https://github.com/capo1/codinggames/blob/master/easy/js/easy-horse-racing-duals.js)                                                                                         | Sorting, Lists                          |
 | [Mime Type](https://www.codingame.com/training/easy/mime-type)                   | [JS](https://github.com/capo1/codinggames/blob/master/easy/js/easy-mime-type.js)                                                                                                  | Conditions, Loops, Hash Tables, Strings |
+| [Chuck Norris](https://www.codingame.com/training/easy/chuck-norris)             | [JS](https://github.com/capo1/codinggames/blob/master/easy/js/easy-chuck-norris.js) [Py](https://github.com/capo1/codinggames/blob/master/easy/py/easy-chuck-norris.py)           | Conditions, Loops, Strings, Encoding    |
+| [Temperatures](https://www.codingame.com/training/easy/temperatures)             | [JS](https://github.com/capo1/codinggames/blob/master/easy/js/easy-temperatures.js) [Py](https://github.com/capo1/codinggames/blob/master/easy/py/easy-temperatures.js)           | Conditions, Loops, Arrays               |
 
 
 ## Middle: 
