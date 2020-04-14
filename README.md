@@ -7,12 +7,12 @@ Mój profil: https://www.codingame.com/profile/315f3bbca63abb32258e17da4efbfa2b4
 # Zadania:
 
 ## Easy (Łatwe): 
-| Title          | Rozwiązanie                                                                           | Temat                          |
+| Tytuł zadania          | Rozwiązanie                                                                           | Temat                          |
 | -------------- | ------------------------------------------------------------------------------------- | ------------------------------ |
 | [DEFIBRILLATORS](https://www.codingame.com/training/easy/defibrillators) | [JS](https://github.com/capo1/codinggames/blob/master/easy/js/easy-defibrillators.js) | Loops, Distances, Trigonometry |
 
 ## Middle (Średnio trudne): 
-| Title          | Rozwiązanie                                                                           | Temat                          |
+| Tytuł zadania          | Rozwiązanie                                                                           | Temat                          |
 | -------------- | ------------------------------------------------------------------------------------- | ------------------------------ |
 | [CONWAY SEQUENCE](https://www.codingame.com/training/medium/conway-sequence) | [JS](https://github.com/capo1/codinggames/blob/master/medium/js/medium-conaway-sequence.js) &middot; | Lists, Loops, Sequences |
 |[DIVIDE THE FACTORIAL](https://www.codingame.com/training/medium/divide-the-factorial)|[JS](https://github.com/capo1/codinggames/blob/master/medium/js/medium-divide-the-factorial.js)|Arithmetics, Primes, Factoring|
