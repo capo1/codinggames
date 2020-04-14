@@ -12,7 +12,7 @@ Mój profil: https://www.codingame.com/profile/315f3bbca63abb32258e17da4efbfa2b4
 | [Defibrillators](https://www.codingame.com/training/easy/defibrillators)      | [JS](https://github.com/capo1/codinggames/blob/master/easy/js/easy-defibrillators.js)                                                                                             | Loops, Distances, Trigonometry |
 | [The Descent](https://www.codingame.com/training/easy/the-descent)            | [JS](https://github.com/capo1/codinggames/blob/master/easy/js/easy-the-descent.js) &middot; [PHP](https://github.com/capo1/codinggames/blob/master/easy/php/easy-the-descent.php) | Sorting, Loops                 |
 | [Hunger Games](https://www.codingame.com/training/easy/hunger-games)          | [JS](https://github.com/capo1/codinggames/blob/master/easy/js/easy-hunger-games.js)                                                                                               | Sorting                        |
-| [Pirate's Treasure](https://www.codingame.com/training/easy/pirates-treasure) | [Py](https://github.com/capo1/codinggames/blob/master/easy/py/easy-pirates-treasure)                                                                                              | Conditions, Loops, Arrays      |
+| [Pirate's Treasure](https://www.codingame.com/training/easy/pirates-treasure) | [Py](https://github.com/capo1/codinggames/blob/master/easy/py/easy-pirates-treasure.py)                                                                                           | Conditions, Loops, Arrays      |
 
 
 ## Middle: 
