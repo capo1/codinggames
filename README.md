@@ -18,5 +18,7 @@ Mój profil: https://www.codingame.com/profile/315f3bbca63abb32258e17da4efbfa2b4
 |[DIVIDE THE FACTORIAL](https://www.codingame.com/training/medium/divide-the-factorial)|[JS](https://github.com/capo1/codinggames/blob/master/medium/js/medium-divide-the-factorial.js)|Arithmetics, Primes, Factoring|
 |[Mayan Calculation](https://www.codingame.com/training/medium/mayan-calculation)|[JS](https://github.com/capo1/codinggames/blob/master/medium/js/medium-mayan-calculation.js)|Strings, Loops, Radix|
 |[Stock Exchange Losses](https://www.codingame.com/training/medium/stock-exchange-losses)|[JS](https://github.com/capo1/codinggames/blob/master/medium/js/medium-stock-exchange-losses.js)|Conditions, Loops, Arrays|
+|[The Gift](https://www.codingame.com/training/medium/the-gift)|[JS](https://github.com/capo1/codinggames/blob/master/medium/js/medium-the-gift.js)| Greedy algorithm |
+
 
 
