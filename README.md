@@ -14,4 +14,4 @@ Mój profil: https://www.codingame.com/profile/315f3bbca63abb32258e17da4efbfa2b4
 ## Middle (Średnio trudne): 
 | Title          | Rozwiązanie                                                                           | Temat                          |
 | -------------- | ------------------------------------------------------------------------------------- | ------------------------------ |
-| [CONWAY SEQUENCE](https://www.codingame.com/training/medium/conway-sequence) | [JS](https://github.com/capo1/codinggames/blob/master/medium/js/medium-conaway-sequence.js) [Python](https://github.com/capo1/codinggames/blob/master/medium/js/medium-conaway-sequence.js)| Lists, Loops, Sequences |
+| [CONWAY SEQUENCE](https://www.codingame.com/training/medium/conway-sequence) | [JS](https://github.com/capo1/codinggames/blob/master/medium/js/medium-conaway-sequence.js) &dot; [Python](https://github.com/capo1/codinggames/blob/master/medium/js/medium-conaway-sequence.js)| Lists, Loops, Sequences |
