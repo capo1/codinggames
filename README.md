@@ -6,14 +6,14 @@ Mój profil: https://www.codingame.com/profile/315f3bbca63abb32258e17da4efbfa2b4
 
 # Zadania:
 
-## Easy (Łatwe): 
+## Easy: 
 | Tytuł zadania          | Rozwiązanie                                                                           | Temat                          |
 | -------------- | ------------------------------------------------------------------------------------- | ------------------------------ |
 | [Defibrillators](https://www.codingame.com/training/easy/defibrillators) | [JS](https://github.com/capo1/codinggames/blob/master/easy/js/easy-defibrillators.js) | Loops, Distances, Trigonometry |
 
 
 
-## Middle (Średnio trudne): 
+## Middle: 
 | Tytuł zadania          | Rozwiązanie                                                                           | Temat                          |
 | -------------- | ------------------------------------------------------------------------------------- | ------------------------------ |
 | [Conway Sequence](https://www.codingame.com/training/medium/conway-sequence) | [JS](https://github.com/capo1/codinggames/blob/master/medium/js/medium-conaway-sequence.js) &middot; | Lists, Loops, Sequences |
@@ -26,7 +26,7 @@ Mój profil: https://www.codingame.com/profile/315f3bbca63abb32258e17da4efbfa2b4
 
 
 
-## Hard (Trudne): 
+## Hard: 
 | Tytuł zadania          | Rozwiązanie                                                                           | Temat                          |
 | -------------- | ------------------------------------------------------------------------------------- | ------------------------------ |
 | [Genome Sequencing](https://www.codingame.com/training/hard/genome-sequencing) | [JS](https://github.com/capo1/codinggames/blob/master/hard/js/hard-genome-sequencing.js)| Strings, Permutations |
@@ -34,7 +34,7 @@ Mój profil: https://www.codingame.com/profile/315f3bbca63abb32258e17da4efbfa2b4
 
 
 
-## Very Hard (Bardzo trudne): 
+## Very Hard: 
 | Tytuł zadania          | Rozwiązanie                                                                           | Temat                          |
 | -------------- | ------------------------------------------------------------------------------------- | ------------------------------ |
 | [The Resistance](https://www.codingame.com/training/expert/the-resistance) | [JS](https://github.com/capo1/codinggames/blob/master/very-hard/js/very-hard-the-resistance.js)| Dynamic programming, Encoding, Memoization, Recursion |
