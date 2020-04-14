@@ -51,6 +51,14 @@ Mój profil: https://www.codingame.com/profile/315f3bbca63abb32258e17da4efbfa2b4
 | [Reccuring Decimals](https://www.codingame.com/training/expert/recurring-decimals) | [JS](https://github.com/capo1/codinggames/blob/master/very-hard/js/very-hard-recurring-decimals.js) | Math                                                  |
 
 
+## Code Golf:
+Code golf to kategoria, aby napisać jak najkrótszy kod.  
+| Tytuł zadania                                                                        | Rozwiązanie                                                                                                                                                                                                                                   | Temat                     |
+| ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| [Temperatures](https://www.codingame.com/multiplayer/codegolf/temperature-code-golf) | [JS](https://github.com/capo1/codinggames/blob/master/code-golf/code-golf-temperature.js) -> 63 znaki  &middot; [Py](https://github.com/capo1/codinggames/blob/master/code-golf/code-golf-temperature.py) -> 68 znaków                        | Conditions, Loops, Arrays |
+| [Chuck Norris](https://www.codingame.com/multiplayer/codegolf/chuck-norris-codesize) | [JS](https://github.com/capo1/codinggames/blob/master/code-golf/code-golf-chuck-norris-codesize.js) -> 168 znaków  &middot; [Py](https://github.com/capo1/codinggames/blob/master/code-golf/code-golf-chuck-norris-codesize.py) -> 139 znaków | Conditions, Loops, Arrays |
+
+
 
 
 
