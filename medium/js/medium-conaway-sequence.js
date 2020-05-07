@@ -48,4 +48,4 @@ const lineSeq = (r, l) => {
     return res
 }
 
-console.log(lineSeq(1, 4))
+console.log(lineSeq(r, l))
